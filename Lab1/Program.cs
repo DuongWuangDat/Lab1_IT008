@@ -1,3 +1,5 @@
+
+
 ﻿using System;
 namespace Lab1
 {
@@ -5,6 +7,7 @@ namespace Lab1
         public static void main(string[] args)
         {
             Console.WriteLine("Hello world");
+    
         }
     }
 }
