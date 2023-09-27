@@ -7,8 +7,10 @@ namespace Lab1
         public static void main(string[] args)
         {
             Console.WriteLine("Hello world");
+
             Console.WriteLine("Project branch");
             //rider lại là dg house
+
 
         }
     }
