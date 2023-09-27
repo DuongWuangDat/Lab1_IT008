@@ -1,3 +1,13 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-//test
+
+
+﻿using System;
+namespace Lab1
+{
+    public class Main{
+        public static void main(string[] args)
+        {
+            Console.WriteLine("Hello world");
+    
+        }
+    }
+}
