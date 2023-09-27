@@ -9,6 +9,8 @@ namespace Lab1
             Console.WriteLine("Hello world");
             Console.WriteLine("Project branch 2");
             // day la dg house 123
+            //raii derr
+            //nn
         }
     }
 }
