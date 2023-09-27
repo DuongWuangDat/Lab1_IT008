@@ -9,6 +9,7 @@ namespace Lab1
             Console.WriteLine("Hello world");
             Console.WriteLine("Project branch");
             //rider lại là dg house
+
         }
     }
 }
