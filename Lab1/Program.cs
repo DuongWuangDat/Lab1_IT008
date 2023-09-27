@@ -10,6 +10,8 @@ namespace Lab1
             Console.WriteLine("Project branch");
             //rider lại là dg house
 
+            Console.WriteLine("Project branch 2");
+            // day la dg house
         }
     }
 }
